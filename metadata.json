@@ -1,0 +1,6 @@
+{
+  "name": "WildEarth Cinema - Wildlife Conservation Streaming & Elementor Template Kit",
+  "description": "Premium wildlife documentary streaming platform, conservation channel, and turnkey WordPress Elementor Pro website template with video paywall, WooCommerce integration, and Vimeo hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
